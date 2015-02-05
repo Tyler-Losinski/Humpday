@@ -1,2 +1,2 @@
 # Humpday
-Commited to makeing a Humpday program.
+Commited to making a Humpday program.
