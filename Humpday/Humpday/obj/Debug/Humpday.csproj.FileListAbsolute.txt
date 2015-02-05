@@ -1,1 +1,10 @@
 C:\Users\Tyler\Desktop\Humpday\Humpday\Humpday\bin\Debug\Humpday.exe.config
+C:\Users\Andrew\Documents\GitHub\Humpday\Humpday\Humpday\bin\Debug\Humpday.exe.config
+C:\Users\Andrew\Documents\GitHub\Humpday\Humpday\Humpday\bin\Debug\Humpday.exe
+C:\Users\Andrew\Documents\GitHub\Humpday\Humpday\Humpday\bin\Debug\Humpday.pdb
+C:\Users\Andrew\Documents\GitHub\Humpday\Humpday\Humpday\obj\Debug\Humpday.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Humpday\Humpday\Humpday\obj\Debug\Humpday.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\Humpday\Humpday\Humpday\obj\Debug\Humpday.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\Humpday\Humpday\Humpday\obj\Debug\Humpday.exe
+C:\Users\Andrew\Documents\GitHub\Humpday\Humpday\Humpday\obj\Debug\Humpday.pdb
+C:\Users\Andrew\Documents\GitHub\Humpday\Humpday\Humpday\obj\Debug\Humpday.Form1.resources
