@@ -5,6 +5,7 @@
     <Grid>
         <Label x:Name="humpdayLabel" Content="Awesomeness in the greatest form" Margin="152,76,152.4,0" VerticalAlignment="Top" Height="31" Width="193" RenderTransformOrigin="0.503,0.46" HorizontalAlignment="Left"/>
         <Button Content="Is It Humpday?" HorizontalAlignment="Left" Margin="198,260,0,0" VerticalAlignment="Top" Width="107" RenderTransformOrigin="0.143,0.36" Click="Button_Click"/>
+        <Button x:Name="time" Content="Time Left" HorizontalAlignment="Left" Margin="383,260,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.483,-0.401" Click="time_Click"/>
 
     </Grid>
 </Window>

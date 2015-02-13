@@ -39,5 +39,13 @@ namespace Humpday
                 humpdayLabel.Content = "Obviously not";
             }
         }
+
+        private void time_Click(object sender, RoutedEventArgs e)
+        {
+            //Opens the time window
+            Time time = new Time();
+            time.Show();
+            this.Close();
+        }
     }
 }
