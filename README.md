@@ -5,4 +5,4 @@ Dr. Liz is the greatest!
 
 Cookies happen every other week.
 
-This is a different test :-)
+Resolving the conflict
